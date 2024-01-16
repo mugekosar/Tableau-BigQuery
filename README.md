@@ -8,7 +8,7 @@
 
 ## Getting Started
 To use this workbook:
-- Ensure you have Tableau Desktop installed (version [specify version if necessary]).
+- Ensure you have Tableau Desktop installed.
 - Download the .twb file from this repository.
 - Open the file using Tableau Desktop.
 
